@@ -1,0 +1,60 @@
+Image: 
+	temp\6qJI_NbnY.jpeg
+	temp\8_arSH4Mji.png
+	temp\JELQ_WN7l.jpg
+	temp\Vschd9__k_.svg
+
+Video_files: 
+	temp\1\dgsgsdg Ч копи€ Ч копи€.mov
+	temp\1\dgsgsdg.mp4
+	temp\dgsgsdg Ч копи€ Ч копи€ Ч копи€.mkv
+	temp\dgsgsdg Ч копи€.avi
+
+Documents: 
+	temp\1\_7tvT_hR.txt
+	temp\2\A_z_MVWf.doc
+	temp\2\b7D6lx8B.pptx
+	temp\2\CHVSHEJIdyF.xlsx
+	temp\2vGjadUlJ.docx
+	temp\XHchrRgFa.pdf
+
+Music: 
+	temp\1\6qJI_NbnY.mp3
+	temp\1\8_arSH4Mji.wav
+	temp\Q_WN.ogg
+	temp\Vschd9__k_.amr
+
+Archives: 
+	temp\1\Aзћю”щщѓ.tar.gz
+	temp\1\LGZiPJjD.tar
+	temp\2\zip2image.zip
+
+Other: 
+	temp\2\JELQ_WN7l.111
+
+All extensions: 
+	ZIP
+	JPEG
+	DOC
+	MKV
+	PDF
+	PNG
+	JPG
+	AMR
+	WAV
+	PPTX
+	AVI
+	MOV
+	MP4
+	DOCX
+	XLSX
+	MP3
+	TAR
+	OGG
+	GZ
+	SVG
+	TXT
+
+Unknown extensions: 
+	111
+
